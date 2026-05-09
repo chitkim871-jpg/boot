@@ -1,2 +1,2 @@
 print("hello word")
-print("kimchit")
+print("chea kimchit")
